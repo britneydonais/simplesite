@@ -482,6 +482,7 @@ section {
 #about .about-container .background {
   min-height: 1200px;
   background: url (../img/bellevue pic.jpg) center top no-repeat; /* this sets the image and properties on the about page */
+  background-size: contain;
   margin-bottom: 0px;
 }
 #about .about-container .content {
